@@ -1,0 +1,11 @@
+# Dependencies for Console Todo Application
+# Note: This application runs without external dependencies
+# Only requires Python 3.13+
+
+# For testing
+pytest>=7.0
+
+# For development (optional)
+mypy>=1.0
+black>=23.0
+flake8>=6.0
